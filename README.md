@@ -3,7 +3,7 @@
 <h3 align="center">I am a developer of mobile applications in the Swift language</h3>
 
 <ul>
+<li>🩷 Swift is my passion from the very first sight, so all my solutions are written in it</li>
 <li>📖 Always learning</li>
 <li>💬 For any questions, please contact us in the telegram</li>
-<li>🩷 Swift is my passion from the very first sight, so all my solutions are written in it</li>
 </ul>
